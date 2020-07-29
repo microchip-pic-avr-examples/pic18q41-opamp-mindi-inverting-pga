@@ -5,10 +5,10 @@ The Inverting Programmable Gain Amplifier is a configuration with run-time selec
 
 ![Inverting PGA](images/configuration.png)
 
-<img src="images/inverting-gain.png" width="300"/>
+![Non-Inverting PGA Equation](images/inverting-gain.PNG)
 
 ### Mindi Simulation
-<img src="images/mplab-mindi-analog-simulator.PNG" width="100"/>
+![Mindi](images/mplab-mindi-analog-simulator.png)
 
 Download and open the follower **Mindi schematic [here](schematics/Inverting_PGA.wxsch)**
 
